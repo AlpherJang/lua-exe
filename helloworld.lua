@@ -24,7 +24,7 @@ end
 age = 20
 
 if age >18 then
-  print("over 28")
+  print("over 18")
 elseif age == 18 then
   print("18 huh")
 else
