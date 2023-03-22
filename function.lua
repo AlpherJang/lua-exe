@@ -58,11 +58,4 @@ for j=1,#data do
   print(data[j][1].." is "..data[j][2].." years old")
 end
 
-local data2 = {
-  sid = {age=20},
-  tim={age=90},
-}
 
-for j=1,#data2 do
-  print(data[j]["age"].."is ")
-end
